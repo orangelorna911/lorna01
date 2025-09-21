@@ -40,8 +40,8 @@ function generateSidebarWithCorrectPaths(routePrefix, scanStartPath, options = {
 }
 
 export default defineConfig({
-  title: '古诗词智能文档',
-  description: '利用智能技术处理古诗词文档的知识库，包含古诗词赏析、创作指导和智能化处理工具',
+  title: 'lorna的网站',
+  description: '记录奇思妙想',
   
   // 设置源目录为docs
   srcDir: 'docs',
@@ -81,7 +81,7 @@ export default defineConfig({
       { text: '边塞征战', link: '/frontier/' },
       { text: '咏史怀古', link: '/history/' },
       { text: '抒情咏物', link: '/lyrical/' },
-      { text: 'GitHub', link: 'https://github.com/yangbin09/gushici-intelligent-docs' }
+      { text: 'GitHub', link: 'git@github.com:orangelorna911/lorna01.git' }
     ],
 
     // 侧边栏 - 使用自动化路径修复的 vitepress-sidebar
