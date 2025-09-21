@@ -2,7 +2,7 @@
 
 > 传统文化与智能技术的完美融合，精选古诗词作品集，提供深入的文学赏析和文化传承，弘扬中华优秀传统文化。
 
-[![Deploy Status](https://github.com/yangbin09/gushici-intelligent-docs/workflows/Deploy%20VitePress%20site%20to%20Remote%20Server/badge.svg)](https://github.com/yangbin09/gushici-intelligent-docs/actions)
+[![Deploy Status](https://github.com/orangelorna911/gushici-intelligent-docs/workflows/Deploy%20VitePress%20site%20to%20Remote%20Server/badge.svg)](https://github.com/orangelorna911/gushici-intelligent-docs/actions)
 [![VitePress](https://img.shields.io/badge/VitePress-1.6.3-blue.svg)](https://vitepress.dev/)
 [![Vue](https://img.shields.io/badge/Vue-3.5.18-green.svg)](https://vuejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -39,7 +39,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yangbin09/gushici-intelligent-docs.git
+git clone https://github.com/orangelorna911/gushici-intelligent-docs.git
 cd gushici-intelligent-docs
 
 # 安装依赖（使用淘宝镜像源）
@@ -163,8 +163,8 @@ gushici-intelligent-docs/
 ## 📞 联系我们
 
 - 📧 邮箱: [项目邮箱]
-- 🐛 问题反馈: [GitHub Issues](https://github.com/yangbin09/gushici-intelligent-docs/issues)
-- 💬 讨论交流: [GitHub Discussions](https://github.com/yangbin09/gushici-intelligent-docs/discussions)
+- 🐛 问题反馈: [GitHub Issues](https://github.com/orangelorna911/gushici-intelligent-docs/issues)
+- 💬 讨论交流: [GitHub Discussions](https://github.com/orangelorna911/gushici-intelligent-docs/discussions)
 
 ---
 
