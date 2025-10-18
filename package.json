@@ -55,6 +55,7 @@
     "source-map-js": "^1.2.1",
     "space-separated-tokens": "^2.0.2",
     "speakingurl": "^14.0.1",
+    "sqlite3": "^5.1.7",
     "stringify-entities": "^4.0.4",
     "superjson": "^2.2.2",
     "tabbable": "^6.2.0",
@@ -72,6 +73,7 @@
     "zwitch": "^2.0.4"
   },
   "devDependencies": {
+    "n8n": "^1.115.3",
     "vitepress-sidebar": "^1.33.0"
   },
   "scripts": {
